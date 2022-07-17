@@ -2,10 +2,10 @@
     position: absolute;
     top: 29px;
     left: 0;
-    width: calc(100vw - (7px * 2));
+    width: calc(100vw - (7.5px * 2));
     z-index: 1;
     object-fit: cover;
-    padding: 0 7px 0;
+    padding: 0 7.5px 0;
     
 
 }

@@ -1,14 +1,14 @@
-.lead__subtitle {
+.intro__text {
+    font-style: normal;
     font-weight: 400;
     font-size: 16px;
-    line-height: 125%;
-    text-align: center;
-    white-space: pre-line;
-    color: #fff;
+    line-height: 163%;
+    color: #FFFFFF;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
     -moz-text-size-adjust: 100%; 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-    text-rendering: optimizeLegibility;
+    margin: 0 0 34px;
+    padding: 0;
 }
