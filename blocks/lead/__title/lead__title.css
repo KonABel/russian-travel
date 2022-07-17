@@ -1,0 +1,17 @@
+.lead__title {
+    font-family: Inter;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 44px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: white;
+    white-space: pre-line;
+    -webkit-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%; 
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+
+}

@@ -1,0 +1,11 @@
+.lead__image-route {
+    position: absolute;
+    top: 29px;
+    left: 0;
+    width: calc(100vw - (7px * 2));
+    z-index: 1;
+    object-fit: cover;
+    padding: 0 7px 0;
+    
+
+}
