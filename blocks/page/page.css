@@ -38,17 +38,4 @@
     max-width: 1280px;
     margin: 0 auto;
     padding: 0;
-    /*overflow-x: hidden;*/
-  }
-/*
-@media screen and (min-width: 1024px) {
-    .page {
-        margin: 0 48px 0;
-    }
 }
-
-@media screen and (min-width: 1280px) {
-    .page {
-        margin: 0 11.57% 0;
-    }
-}*/
