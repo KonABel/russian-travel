@@ -8,10 +8,10 @@
     max-height: calc(100vw / 1.6);
 
 }
-
+/*
 @media screen and (min-width: 1024px) {
     .lead__images {
     max-height: calc((100vw - 96) / 1.6);
-    /*overflow: hidden;*/
+    /*overflow: hidden;
     }
-}
+} */
