@@ -2,9 +2,11 @@
     font-family: Inter;
     font-size: 40px;
     font-weight: 900;
-    line-height: 44px;
+    line-height: 109%;
     letter-spacing: 0em;
     text-align: center;
+    margin: 0;
+    padding: 0;
     color: white;
     white-space: pre-line;
     -webkit-text-size-adjust: 100%;
@@ -13,5 +15,12 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
+}
 
+@media screen and (min-width: 768px) {
+    .lead__title {
+        font-weight: 900;
+        font-size: 96px;
+        line-height: 100px;
+    }
 }

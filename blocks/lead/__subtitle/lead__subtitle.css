@@ -4,6 +4,8 @@
     line-height: 125%;
     text-align: center;
     white-space: pre-line;
+    margin: 16px 0 40px;
+    padding: 0;
     color: #fff;
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%;
@@ -11,4 +13,18 @@
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     text-rendering: optimizeLegibility;
+}
+
+@media screen and (min-width: 768px) {
+    .lead__subtitle {
+        font-size: 30px;
+        line-height: 36px;
+        margin: 32px 0 56px;
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .lead__subtitle {
+        margin: 32px 0 64px;
+    }
 }
