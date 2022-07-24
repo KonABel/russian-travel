@@ -21,7 +21,7 @@
         url(../../vendor/fonts/inter/Inter-Black.woff) format('woff'),
         url(../../vendor/fonts/inter/Inter-Black.woff2) format('woff2');
     font-weight: 900;
-};
+}
 
 @font-face {
     font-family: 'Inter';
