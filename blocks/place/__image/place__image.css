@@ -4,3 +4,23 @@
     object-fit: contain;
     object-position: right top;
 }
+
+@media screen and (min-width: 450px) {
+    .place__image {
+        width: 95%;
+        margin: 0 auto;
+    }    
+}
+
+@media screen and (min-width: 708px) {
+    .place__image {
+        width: 100%;
+        margin: 0 0 0 16px;
+    }    
+}
+
+@media screen and (min-width: 768px) {
+    .place__image {
+        margin: 0;
+    }    
+}
