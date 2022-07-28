@@ -9,23 +9,3 @@
     }
 }
 
-
-/*.page__cover {
-    margin: 0;
-    padding: 0;
-    /*min-width: 320px;
-    min-height: calc(100vw / 1.6);
-    width: 100%;
-    height: calc(100vw / 1.6);
-    background-image: url(../../../images/railways.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-}
-
-@media screen and (min-width: 1200px) {
-    .page__cover {
-        margin: 0 7.5% 0 7.5%;
-        max-width: 85%;        
-    }
-}*/

@@ -1,10 +1,12 @@
 .lead__image {
-    position: relative;
-    top: 0;
-    left: 0;
-    /*max-height: calc(100vw / 1.6);
-    object-fit: cover;*/
+    object-fit: cover;
     max-width: 100%;
     height: auto;
-    font-size: 0;
+    vertical-align: bottom;
+}
+
+@media screen and (min-width: 980px) {
+    .lead__image {
+        min-width: 100%;
+    }
 }

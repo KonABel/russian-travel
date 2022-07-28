@@ -1,9 +1,0 @@
-.lead__image-route {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
-    object-fit: contain;
-    margin: 9% 2.5% 0;
-    width: 95%;
-}
